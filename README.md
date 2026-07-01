@@ -1,6 +1,5 @@
-# Привет! Я [Tima]  | Python & InfoSec Enthusiast ️
+# Привет! Я Tima  | Python & InfoSec Enthusiast ️
 
-> *"Код — это поэзия, а информационная безопасность — это искусство."* 🐍🔒
 
 ```bash
 $ whoami
