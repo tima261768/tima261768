@@ -1,4 +1,4 @@
-# Привет! Я Tima  | Python & InfoSec Enthusiast ️
+# Hi! I'm Tim  | Python & InfoSec Enthusiast ️
 
 
 ```bash
